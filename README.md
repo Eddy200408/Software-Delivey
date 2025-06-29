@@ -62,7 +62,7 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-## ⚠️ Primeiros Passos para Testar o Sistema
+## Primeiros Passos para Testar o Sistema
 
 > **IMPORTANTE:** Ao executar o software pela primeira vez, siga esta ordem para garantir que todos os testes funcionem:
 >
@@ -77,7 +77,7 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-## 👤 Usuários do Sistema
+## Usuários do Sistema
 
 - **Admin:** Gerencia lojas, produtos e entregadores.
 - **Entregador:** Aceita e entrega pedidos.
@@ -85,9 +85,9 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-## 🛠️ Fluxo de Uso no Postman (com links completos)
+## 🛠Fluxo de Uso no Postman (com links completos)
 
-### 1️⃣ Admin
+### Admin
 
 - **Login:**
   ```
@@ -115,7 +115,7 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-### 2️⃣ Cliente
+### Cliente
 
 - **Cadastro:**
   ```
@@ -158,7 +158,7 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-### 3️⃣ Entregador
+### Entregador
 
 - **Login:**
   ```
@@ -190,7 +190,7 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-## ⚠️ Observações Importantes
+## Observações Importantes
 
 - Sempre envie o token JWT no header Authorization para rotas protegidas.
 - O admin é criado automaticamente pelo sistema com as credenciais acima.
