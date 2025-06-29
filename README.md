@@ -85,7 +85,7 @@ Este projeto é um sistema de backend para um Software de Entrega em Casa, desen
 
 ---
 
-## 🛠Fluxo de Uso no Postman (com links completos)
+## Fluxo de Uso no Postman (com links completos)
 
 ### Admin
 
